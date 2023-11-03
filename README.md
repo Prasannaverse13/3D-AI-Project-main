@@ -1,4 +1,4 @@
-## [3D-AI-Project](https://exslym.github.io/3D-AI-Project/)
+## [3D-AI-Project]
 
 [![preview](https://github.com/exslym/3D-AI-Project/blob/main/preview.jpg)](https://exslym.github.io/3D-AI-Project/)
 
