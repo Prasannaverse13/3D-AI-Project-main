@@ -1,6 +1,6 @@
 ## [3D-AI-Project]
 
-[![preview](https://github.com/exslym/3D-AI-Project/blob/main/preview.jpg)](https://exslym.github.io/3D-AI-Project/)
+[![preview](https://github.com/exslym/3D-AI-Project/blob/main/preview.jpg)]()
 
 ### An outstanding and impressive website for 3D t-shirts customizing tools with AI (DALL-E) using React, 3D-graphics and animations with ThreeJS and Framer Motion, TailwindCSS for styling, and openAI API!
 
